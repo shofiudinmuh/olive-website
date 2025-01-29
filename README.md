@@ -2,7 +2,7 @@
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/shofiudinmuh/sikap.git
+git clone https://github.com/shofiudinmuh/resto-website.git
 ```
 
 
