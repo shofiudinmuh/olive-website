@@ -8,7 +8,6 @@
         <div class="login-logo">
             <a href="{{ url('/') }}">
                 <img src="{{ asset('/img/logo-20230613010203.png')}}" alt="logo.png" width="100">
-                {{-- <h1>SIKAP</h1> --}}
                 <h2>Olive Eatery & Coffee</h2>
             </a>
         </div>

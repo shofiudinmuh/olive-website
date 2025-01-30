@@ -32,7 +32,7 @@ Dashboard
         <!-- small box -->
         <div class="small-box bg-green">
             <div class="inner">
-                {{-- <h3>{{ $produk }}</h3> --}}
+                <h3>0</h3>
 
                 <p>Total Produk</p>
             </div>
@@ -64,7 +64,7 @@ Dashboard
         <!-- small box -->
         <div class="small-box bg-red">
             <div class="inner">
-                {{-- <h3>{{ $supplier }}</h3> --}}
+                <h3>0</h3>
 
                 <p>Total Supplier</p>
             </div>
