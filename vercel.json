@@ -9,7 +9,7 @@
         { "src": "/(.*)", "dest": "/api/index.php" }
     ],
     "public": true,
-    "buildCommand": "vite build",
+    "buildCommand": ["vite build", "npm run dev"],
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
